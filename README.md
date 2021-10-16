@@ -6,7 +6,7 @@ www.tiny.cc/a0h1ty
 To install from your terminal:
 
 -Clone this repository to your local machine |
-`git clone https://github.com/maisonm/weather_app_tutorial`
+`git clone https://github.com/Er-Aayushi-jain/Weather-App.git'
 
 - Navigate to the repo on your machine, and install the dependencies from `package.json` |
 `cd weather_app_tutorial` => `npm install` 
